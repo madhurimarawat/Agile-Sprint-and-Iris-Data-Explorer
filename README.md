@@ -1,6 +1,30 @@
 # Agile-Sprint-and-Iris-Data-Explorer
 Streamlit app that combines agile sprint planning with data visualization of the Iris dataset. It helps analyze task distribution and explore key data insights interactively.
 
+**Streamlit App Snapshots:**
+
+<a href="https://madhurima-agile-sprint-and-iris-data-explorer.streamlit.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/d8e5c040-7067-4b2c-b919-18056b05efb4" width="100%" title="App Snapshot 1" alt="Screenshot of Agile Sprint and Iris Data Explorer App - Snapshot 1">
+</a>
+
+<a href="https://madhurima-agile-sprint-and-iris-data-explorer.streamlit.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/aa33feb0-90ee-4185-979b-4649e58464be" width="100%" title="App Snapshot 2" alt="Screenshot of Agile Sprint and Iris Data Explorer App - Snapshot 2">
+</a>
+
+<a href="https://madhurima-agile-sprint-and-iris-data-explorer.streamlit.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/51d65b85-f273-45fd-8e23-4b24fb18e4af" width="100%" title="App Snapshot 3" alt="Screenshot of Agile Sprint and Iris Data Explorer App - Snapshot 3">
+</a>
+
+<a href="https://madhurima-agile-sprint-and-iris-data-explorer.streamlit.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/894404c9-6c75-4322-adbb-60d6c471e5d4" width="100%" title="App Snapshot 4" alt="Screenshot of Agile Sprint and Iris Data Explorer App - Snapshot 4">
+</a>
+
+<a href="https://madhurima-agile-sprint-and-iris-data-explorer.streamlit.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/100a9be8-5613-4455-a3e3-243bc0eb9a64" width="100%" title="App Snapshot 5" alt="Screenshot of Agile Sprint and Iris Data Explorer App - Snapshot 5">
+</a>
+
+---
+
 ## **Directory Structure**
 
 ### **Codes:**
