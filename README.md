@@ -25,18 +25,26 @@ Streamlit app that combines agile sprint planning with data visualization of the
 
 ---
 
-## **Directory Structure**
+## Directory Structure
 
-### **Codes:**
-
-- **requirements.txt**: Contains the dependencies required for running the Streamlit app, including libraries such as Streamlit and other necessary Python packages.
-- **Streamlit_app.py**: The main Python script for the Streamlit web application, which loads the Iris dataset and provides interactive features for data visualization.
-- **Iris_Dataset_Analysis.py**: A Python script for analyzing the Iris dataset. This file contains the core data analysis logic, including any data preprocessing and visualization steps.
-
-### **Documentation Files:**
-
-- **Agile_Sprint_Planning.md**: This markdown file contains the documentation for the sprint planning of the project. It outlines the development process, tasks completed, and the project timeline.
-- **Agile_Sprint_Planning.pdf**: A PDF document that includes all output from the project, including results from the analysis and application features, formatted for easy sharing and printing.
+```
+📂 Agile-Sprint-and-Iris-Data-Explorer
+├── 📁 Codes
+│   ├── 📄 requirements.txt             # 📜 Contains necessary dependencies for running the Streamlit app.
+│   ├── 📄 Streamlit_app.py             # 🚀 Main script for the Streamlit web app, enabling interactive Iris dataset visualization.
+│   ├── 📄 Iris_Dataset_Analysis.py     # 📊 Python script for core analysis, preprocessing, and visualizing the Iris dataset.
+│
+├── 📁 Documentation Files
+│   ├── 📄 Agile_Sprint_Planning.md     # 📋 Sprint planning documentation with timeline and completed tasks.
+│   ├── 📄 Agile_Sprint_Planning.pdf    # 📄 Formatted PDF summarizing project outputs and features for sharing.
+│
+├── 📁 Output
+│   ├── 📄 Experiment 8 Output.docx     # 📝 Word document detailing experiment results.
+│   ├── 📄 Experiment 8 Output.pdf      # 📑 PDF version of the experiment results for easy distribution.
+│
+├── 📄 README.md                        # 📘 Project overview, setup instructions, and feature details.
+├── 📄 LICENSE.md                       # 📜 License information for using and modifying the project.
+```
 
 ---
 
