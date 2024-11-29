@@ -46,6 +46,12 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+# Setting the page title
+# This title will only be visible when running the app locally.
+# In the deployed app, the title will be displayed as "Title - Streamlit," where "Title" is the one we provide.
+# If we don't set the title, it will default to "Streamlit."
+st.set_page_config(page_title="Agile Sprint")
+
 
 # Function to include background image and opacity
 def display_background_image(url, opacity):
